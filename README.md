@@ -12,4 +12,4 @@ pytest --language=es test_items.py
 и проходить успешно. Достаточно, чтобы код работал только для браузера Сhrome.  
 
 Strat test: pytest --browser_name=browser --language=language test_items.py  
-Example:pytest --browser_name=firefox --language=ru test_items.py
+Example: pytest --browser_name=firefox --language=ru test_items.py
